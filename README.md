@@ -1,4 +1,7 @@
 # Guyus Real Estate Analysis
+
+![image](https://github.com/user-attachments/assets/efb23e11-c113-4ca8-b5a6-7fa7cd1a5228)
+
 ## Comprehensive Guyus Real Estate Analysis Report
 ________________________________________
 - **Executive Summary**
