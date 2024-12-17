@@ -20,6 +20,9 @@ Guyus Real Estate demonstrates strong sales activity with a balanced portfolio, 
   - Promote luxury and high-value listings to boost revenue per transaction.
 - **2.	Transaction Volume Efficiency:**
   - Identify and streamline processes for high-frequency transactions to sustain efficiency and reduce operational costs.
+ 
+    ![image](https://github.com/user-attachments/assets/61852fb6-ec20-4f97-914e-b316657d9694)
+
 ________________________________________
 ## 2. State-Level Insights
 - **Top Performing State: Texas (TX)**
@@ -39,6 +42,9 @@ ________________________________________
   - Launch state-specific campaigns to boost visibility and attract buyers.
 - **3.	Leverage California and New York:**
   - Enhance focus on these mid-tier states by aligning property offerings with buyer preferences (e.g., luxury Residential in CA, high-value Commercial in NY).
+
+    ![image](https://github.com/user-attachments/assets/aece2019-0f86-4379-b5de-fc14090e4aab)
+
 ________________________________________
 ## 3. Property Type Analysis
 - **Property Contribution**
@@ -64,6 +70,9 @@ ________________________________________
   - Develop a consistent annual sales strategy to sustain revenue.
 - **2.	Boost Peak Months:**
   - Enhance campaigns during January and March to maximize early-year momentum.
+
+    ![image](https://github.com/user-attachments/assets/4987a7ff-2ffd-410d-8d7b-bc0bcf42b8bc)
+
 ________________________________________
 ## 5. Agent Performance
 - **Top Performers**
