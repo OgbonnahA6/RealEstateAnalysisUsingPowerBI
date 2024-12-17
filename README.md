@@ -42,9 +42,6 @@ ________________________________________
   - Launch state-specific campaigns to boost visibility and attract buyers.
 - **3.	Leverage California and New York:**
   - Enhance focus on these mid-tier states by aligning property offerings with buyer preferences (e.g., luxury Residential in CA, high-value Commercial in NY).
-
-    ![image](https://github.com/user-attachments/assets/aece2019-0f86-4379-b5de-fc14090e4aab)
-
 ________________________________________
 ## 3. Property Type Analysis
 - **Property Contribution**
@@ -94,6 +91,9 @@ ________________________________________
   - Study TX buyer demographics, property preferences, and marketing strategies to replicate success in other states.
 - **2.	Predictive Analysis:**
   - Develop predictive models to forecast sales trends by state and adjust resource allocation dynamically.
+
+    ![image](https://github.com/user-attachments/assets/2a68cf4b-669d-4f8e-9762-6b0274f52d34)
+
 ________________________________________
 ## 7. Recommendations
 - **Short-Term (0–3 Months)**
